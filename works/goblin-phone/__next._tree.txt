@@ -1,8 +1,8 @@
-:HL["/2026/_next/static/chunks/0ywgfpuowg06c.css","style"]
+:HL["/2026/_next/static/chunks/0gxla72kskoi2.css","style"]
 :HL["/2026/fonts/PretendardVariable.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/2026/fonts/Matricha.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 :HL["/2026/cursors/pointer.png","image",{"type":"image/png"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"goblin-phone","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"works","h":96,"c":"$Q2"}]]
-0:{"b":"8V6-xoGRyK2dTrzZXz8h7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"xB3ef94cfHMSHHfbLYTGT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
