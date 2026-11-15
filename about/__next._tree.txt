@@ -1,4 +1,4 @@
-:HL["/2026/_next/static/chunks/11o1qgcu-_l9a.css","style"]
+:HL["/2026/_next/static/chunks/1t5epx4ft6ydi.css","style"]
 :HL["/2026/fonts/PretendardVariable.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/2026/fonts/Matricha.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 :HL["/2026/cursors/pointer-full.png","image",{"type":"image/png"}]
@@ -6,4 +6,4 @@
 :HL["/2026/hero/house.png","image",{"type":"image/png"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":96,"c":"$Q2"}]]
-0:{"b":"Wls6I0GmXHRCW8f2vgZfZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Aj1y-KCBl19_dPtjjAZ4Q","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
